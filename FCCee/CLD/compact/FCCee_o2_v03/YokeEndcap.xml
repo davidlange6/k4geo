@@ -22,7 +22,7 @@
     <!--  Includes for sensitives and support                -->
     <detectors>
         
-        <detector name="YokeEndcap" type="CLD_GenericCalEndcap_o1_v01" id="DetID_Yoke_Endcap" readout="YokeEndcapCollection" vis="YOKEVis" >
+        <detector name="YokeEndcap" type="CLD_GenericCalEndcap_o1_v01_geo" id="DetID_Yoke_Endcap" readout="YokeEndcapCollection" vis="YOKEVis" >
             
             <comment>Encap Yoke</comment>
             

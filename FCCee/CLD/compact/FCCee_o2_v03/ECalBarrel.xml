@@ -30,7 +30,7 @@
     </display>
 
     <detectors>        
-        <detector name="ECalBarrel" type="CLD_GenericCalBarrel_o1_v01" id="DetID_ECal_Barrel" readout="ECalBarrelCollection" vis="ECALVis" gap="0.*cm">
+        <detector name="ECalBarrel" type="CLD_GenericCalBarrel_o1_v01_geo" id="DetID_ECal_Barrel" readout="ECalBarrelCollection" vis="ECALVis" gap="0.*cm">
 
             <comment>EM Calorimeter Barrel</comment>
             
